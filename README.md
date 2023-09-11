@@ -14,7 +14,7 @@ Segue arquivo para download do Banco de Dados para aplicação do estudo, analis
 <p><a href="https://drive.google.com/drive/folders/1UFYpqpBedlVbHzzGCfYo9WanSS6lzljW">1 - Download Banco de Dados</a></p>
 </div> 
 
-1 - Realizar download da base de dados;
-2 - Salvar no diretório: C:\DataBase\BackupFiles
+2 - Realizar download da base de dados <b>eCommerce.</b></br></br>
+3 - Salvar no diretório: <b>C:\DataBase\BackupFiles</b>
 
   
